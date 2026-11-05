@@ -1,9 +1,3 @@
-                                                       
-
-                                                                                 
-                                                                             
-                                                                         
-   
 from __future__ import annotations
 import argparse,base64,contextlib,errno,gzip,hashlib,io,json,os,queue,sys,threading,urllib.parse,webbrowser
 from pathlib import Path
